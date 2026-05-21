@@ -1,7 +1,3 @@
--- stupid anticheat bypass below --
--- github.com/swish-hub/rivals-ac
--- this is a BETA anti-cheat. If you wish to contribute on this, add jckie_swish on Discord
--- open source because i felt like it
 local plrs = game:GetService("Players")
 local rf = game:GetService("ReplicatedFirst")
 local lp = plrs.LocalPlayer
